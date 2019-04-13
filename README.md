@@ -6,8 +6,10 @@
 
 Implement Monte Carlo control to teach an agent to play Blackjack using OpenAI Gym.
 
-Simple blackjack environment
+![Cards Blackjack](images/2-card-21.png)
 
+Simple blackjack environment
+```
     Blackjack is a card game where the goal is to obtain cards that sum to as near as possible to 21 without going over.
     They're playing against a fixed dealer.
 
@@ -31,3 +33,14 @@ Simple blackjack environment
     This environment corresponds to the version of the blackjack problem described in Example 5.1
     in Reinforcement Learning: An Introduction by Sutton and Barto (1998).
     http://incompleteideas.net/sutton/book/the-book.html
+
+```
+
+### Project Instructions
+
+  1. Clone the repository and navigate to the downloaded folder.
+    ```
+    git clone https://github.com/adityasaxena26/OpenAI-Gym-BlackjackEnv.git
+    cd OpenAI-Gym-BlackjackEnv
+    ```
+  2. open the jupyter notebook 'blackjack_monte_carlo.ipynb'
